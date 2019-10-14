@@ -1,0 +1,10 @@
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\bin\Debug\ConvertImage.exe.config
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\bin\Debug\ConvertImage.exe
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\bin\Debug\ConvertImage.pdb
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\obj\Debug\ConvertImage.csprojResolveAssemblyReference.cache
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\obj\Debug\ConvertImage.Form1.resources
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\obj\Debug\ConvertImage.Properties.Resources.resources
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\obj\Debug\ConvertImage.csproj.GenerateResource.Cache
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\obj\Debug\ConvertImage.exe.licenses
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\obj\Debug\ConvertImage.exe
+C:\Users\tar24\Desktop\Libraries\GirisKalip\ConvertImage\ConvertImage\obj\Debug\ConvertImage.pdb
